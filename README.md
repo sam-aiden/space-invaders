@@ -26,3 +26,11 @@ This project is a basic implementation of the classic Space Invaders game using 
 Run the game:
 ```bash
 python main.py
+```
+4. output file:
+
+    ![output1](https://github.com/user-attachments/assets/253bd782-c71a-4008-b88c-7d423b4179a0)
+
+game over 
+    ![output2](https://github.com/user-attachments/assets/f71bf3c4-bf65-4ddf-97c6-f8e06fb6cf28)
+
