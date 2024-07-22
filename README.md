@@ -31,6 +31,5 @@ python main.py
 
     ![output1](https://github.com/user-attachments/assets/253bd782-c71a-4008-b88c-7d423b4179a0)
 
-game over 
-    ![output2](https://github.com/user-attachments/assets/f71bf3c4-bf65-4ddf-97c6-f8e06fb6cf28)
+
 
